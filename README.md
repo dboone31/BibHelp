@@ -1,2 +1,2 @@
-# BibHelp
-A small chrome extension to help students build bibliographies quickly.
+# ReadAlong
+chrome extension to help ELL read along

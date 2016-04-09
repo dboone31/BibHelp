@@ -72,7 +72,7 @@ function buildPopupDom(divName, data){
 		
 	}
 	map["https://www.google.com/"] = [];
-	console.log(map);
+	//console.log(map);
 	
 	//loop through map
 	//make the map a paragraph and show it's keys(urls) with checkboxes
